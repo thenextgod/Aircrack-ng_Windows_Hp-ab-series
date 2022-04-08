@@ -1,0 +1,16 @@
+lib/libac/support/libaircrack_la-mcs_index_rates.lo: \
+ lib/libac/support/mcs_index_rates.c config.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/11/include/stdint.h /usr/include/stdint.h \
+ /usr/include/machine/_default_types.h /usr/include/sys/features.h \
+ /usr/include/_newlib_version.h /usr/include/sys/_intsup.h \
+ /usr/include/sys/_stdint.h \
+ /aircrack-ng-1.6-win/include/aircrack-ng/support/mcs_index_rates.h
+config.h:
+/usr/lib/gcc/x86_64-pc-cygwin/11/include/stdint.h:
+/usr/include/stdint.h:
+/usr/include/machine/_default_types.h:
+/usr/include/sys/features.h:
+/usr/include/_newlib_version.h:
+/usr/include/sys/_intsup.h:
+/usr/include/sys/_stdint.h:
+/aircrack-ng-1.6-win/include/aircrack-ng/support/mcs_index_rates.h:

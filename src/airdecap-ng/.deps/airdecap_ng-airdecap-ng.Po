@@ -1,0 +1,179 @@
+src/airdecap-ng/airdecap_ng-airdecap-ng.o: src/airdecap-ng/airdecap-ng.c \
+ config.h /usr/include/unistd.h /usr/include/sys/unistd.h \
+ /usr/include/_ansi.h /usr/include/newlib.h \
+ /usr/include/_newlib_version.h /usr/include/sys/config.h \
+ /usr/include/machine/ieeefp.h /usr/include/sys/features.h \
+ /usr/include/cygwin/config.h /usr/include/sys/cdefs.h \
+ /usr/include/machine/_default_types.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/11/include/stddef.h \
+ /usr/include/sys/types.h /usr/include/machine/_types.h \
+ /usr/include/sys/_types.h /usr/include/sys/_stdint.h \
+ /usr/include/machine/endian.h /usr/include/machine/_endian.h \
+ /usr/include/bits/endian.h /usr/include/sys/select.h \
+ /usr/include/sys/_sigset.h /usr/include/sys/_timeval.h \
+ /usr/include/sys/timespec.h /usr/include/sys/_timespec.h \
+ /usr/include/sys/_pthreadtypes.h /usr/include/sys/cpuset.h \
+ /usr/include/machine/types.h /usr/include/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/wordsize.h \
+ /usr/include/sys/sysmacros.h /usr/include/getopt.h \
+ /usr/include/ssp/unistd.h /usr/include/ssp/ssp.h /usr/include/string.h \
+ /usr/include/_ansi.h /usr/include/sys/reent.h /usr/include/sys/lock.h \
+ /usr/include/sys/_locale.h /usr/include/strings.h \
+ /usr/include/ssp/strings.h /usr/include/sys/string.h \
+ /usr/include/ssp/string.h /usr/include/stdlib.h \
+ /usr/include/machine/stdlib.h /usr/include/alloca.h \
+ /usr/include/cygwin/stdlib.h /usr/include/cygwin/wait.h \
+ /usr/include/ssp/stdlib.h /usr/include/stdio.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/11/include/stdarg.h \
+ /usr/include/sys/stdio.h /usr/include/ssp/stdio.h /usr/include/time.h \
+ /usr/include/machine/time.h /usr/include/cygwin/time.h \
+ /usr/include/signal.h /usr/include/sys/signal.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/11/include/stdint.h /usr/include/stdint.h \
+ /usr/include/sys/_intsup.h /usr/include/cygwin/signal.h \
+ /usr/include/sys/ucontext.h \
+ /aircrack-ng-1.6-win/include/aircrack-ng/version.h \
+ /aircrack-ng-1.6-win/include/aircrack-ng/crypto/crypto.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/11/include/limits.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/11/include/syslimits.h \
+ /usr/include/limits.h /usr/include/features.h \
+ /usr/include/cygwin/limits.h /usr/include/errno.h \
+ /usr/include/sys/errno.h /usr/include/openssl/hmac.h \
+ /usr/include/openssl/opensslconf.h /usr/include/openssl/opensslv.h \
+ /usr/include/openssl/evp.h /usr/include/openssl/ossl_typ.h \
+ /usr/include/openssl/e_os2.h /usr/include/inttypes.h \
+ /usr/include/openssl/symhacks.h /usr/include/openssl/bio.h \
+ /usr/include/openssl/crypto.h /usr/include/openssl/safestack.h \
+ /usr/include/openssl/stack.h /usr/include/openssl/cryptoerr.h \
+ /usr/include/pthread.h /usr/include/sched.h /usr/include/sys/sched.h \
+ /usr/include/openssl/bioerr.h /usr/include/openssl/evperr.h \
+ /usr/include/openssl/objects.h /usr/include/openssl/obj_mac.h \
+ /usr/include/openssl/asn1.h /usr/include/openssl/asn1err.h \
+ /usr/include/openssl/bn.h /usr/include/openssl/bnerr.h \
+ /usr/include/openssl/objectserr.h /usr/include/openssl/sha.h \
+ /usr/include/openssl/rc4.h /usr/include/openssl/md5.h \
+ /usr/include/openssl/aes.h /usr/include/openssl/cmac.h \
+ /aircrack-ng-1.6-win/include/aircrack-ng/defs.h \
+ /usr/lib/gcc/x86_64-pc-cygwin/11/include/stdbool.h /usr/include/assert.h \
+ /aircrack-ng-1.6-win/include/aircrack-ng/support/pcap_local.h \
+ /aircrack-ng-1.6-win/include/aircrack-ng/osdep/byteorder.h \
+ /usr/include/asm/byteorder.h \
+ /aircrack-ng-1.6-win/include/aircrack-ng/adt/avl_tree.h \
+ /aircrack-ng-1.6-win/include/aircrack-ng/support/common.h \
+ /usr/include/ctype.h /usr/include/sys/time.h \
+ /usr/include/machine/_time.h \
+ /aircrack-ng-1.6-win/include/aircrack-ng/tui/console.h
+config.h:
+/usr/include/unistd.h:
+/usr/include/sys/unistd.h:
+/usr/include/_ansi.h:
+/usr/include/newlib.h:
+/usr/include/_newlib_version.h:
+/usr/include/sys/config.h:
+/usr/include/machine/ieeefp.h:
+/usr/include/sys/features.h:
+/usr/include/cygwin/config.h:
+/usr/include/sys/cdefs.h:
+/usr/include/machine/_default_types.h:
+/usr/lib/gcc/x86_64-pc-cygwin/11/include/stddef.h:
+/usr/include/sys/types.h:
+/usr/include/machine/_types.h:
+/usr/include/sys/_types.h:
+/usr/include/sys/_stdint.h:
+/usr/include/machine/endian.h:
+/usr/include/machine/_endian.h:
+/usr/include/bits/endian.h:
+/usr/include/sys/select.h:
+/usr/include/sys/_sigset.h:
+/usr/include/sys/_timeval.h:
+/usr/include/sys/timespec.h:
+/usr/include/sys/_timespec.h:
+/usr/include/sys/_pthreadtypes.h:
+/usr/include/sys/cpuset.h:
+/usr/include/machine/types.h:
+/usr/include/endian.h:
+/usr/include/bits/byteswap.h:
+/usr/include/bits/wordsize.h:
+/usr/include/sys/sysmacros.h:
+/usr/include/getopt.h:
+/usr/include/ssp/unistd.h:
+/usr/include/ssp/ssp.h:
+/usr/include/string.h:
+/usr/include/_ansi.h:
+/usr/include/sys/reent.h:
+/usr/include/sys/lock.h:
+/usr/include/sys/_locale.h:
+/usr/include/strings.h:
+/usr/include/ssp/strings.h:
+/usr/include/sys/string.h:
+/usr/include/ssp/string.h:
+/usr/include/stdlib.h:
+/usr/include/machine/stdlib.h:
+/usr/include/alloca.h:
+/usr/include/cygwin/stdlib.h:
+/usr/include/cygwin/wait.h:
+/usr/include/ssp/stdlib.h:
+/usr/include/stdio.h:
+/usr/lib/gcc/x86_64-pc-cygwin/11/include/stdarg.h:
+/usr/include/sys/stdio.h:
+/usr/include/ssp/stdio.h:
+/usr/include/time.h:
+/usr/include/machine/time.h:
+/usr/include/cygwin/time.h:
+/usr/include/signal.h:
+/usr/include/sys/signal.h:
+/usr/lib/gcc/x86_64-pc-cygwin/11/include/stdint.h:
+/usr/include/stdint.h:
+/usr/include/sys/_intsup.h:
+/usr/include/cygwin/signal.h:
+/usr/include/sys/ucontext.h:
+/aircrack-ng-1.6-win/include/aircrack-ng/version.h:
+/aircrack-ng-1.6-win/include/aircrack-ng/crypto/crypto.h:
+/usr/lib/gcc/x86_64-pc-cygwin/11/include/limits.h:
+/usr/lib/gcc/x86_64-pc-cygwin/11/include/syslimits.h:
+/usr/include/limits.h:
+/usr/include/features.h:
+/usr/include/cygwin/limits.h:
+/usr/include/errno.h:
+/usr/include/sys/errno.h:
+/usr/include/openssl/hmac.h:
+/usr/include/openssl/opensslconf.h:
+/usr/include/openssl/opensslv.h:
+/usr/include/openssl/evp.h:
+/usr/include/openssl/ossl_typ.h:
+/usr/include/openssl/e_os2.h:
+/usr/include/inttypes.h:
+/usr/include/openssl/symhacks.h:
+/usr/include/openssl/bio.h:
+/usr/include/openssl/crypto.h:
+/usr/include/openssl/safestack.h:
+/usr/include/openssl/stack.h:
+/usr/include/openssl/cryptoerr.h:
+/usr/include/pthread.h:
+/usr/include/sched.h:
+/usr/include/sys/sched.h:
+/usr/include/openssl/bioerr.h:
+/usr/include/openssl/evperr.h:
+/usr/include/openssl/objects.h:
+/usr/include/openssl/obj_mac.h:
+/usr/include/openssl/asn1.h:
+/usr/include/openssl/asn1err.h:
+/usr/include/openssl/bn.h:
+/usr/include/openssl/bnerr.h:
+/usr/include/openssl/objectserr.h:
+/usr/include/openssl/sha.h:
+/usr/include/openssl/rc4.h:
+/usr/include/openssl/md5.h:
+/usr/include/openssl/aes.h:
+/usr/include/openssl/cmac.h:
+/aircrack-ng-1.6-win/include/aircrack-ng/defs.h:
+/usr/lib/gcc/x86_64-pc-cygwin/11/include/stdbool.h:
+/usr/include/assert.h:
+/aircrack-ng-1.6-win/include/aircrack-ng/support/pcap_local.h:
+/aircrack-ng-1.6-win/include/aircrack-ng/osdep/byteorder.h:
+/usr/include/asm/byteorder.h:
+/aircrack-ng-1.6-win/include/aircrack-ng/adt/avl_tree.h:
+/aircrack-ng-1.6-win/include/aircrack-ng/support/common.h:
+/usr/include/ctype.h:
+/usr/include/sys/time.h:
+/usr/include/machine/_time.h:
+/aircrack-ng-1.6-win/include/aircrack-ng/tui/console.h:
